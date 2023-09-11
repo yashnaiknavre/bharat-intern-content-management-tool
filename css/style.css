@@ -1,0 +1,56 @@
+html body{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(241, 241, 196);
+}
+
+.main{
+    text-align: center;
+    /* justify-content: center; */
+}
+#for{
+    margin: auto;
+        width: 50vw;
+        padding: 2rem;
+        border: 1px solid black;
+        background-color: rgba(255, 0, 0, 0.074);
+        border-radius: 1rem;
+}
+.main label{
+    font-size: larger;
+    
+      
+        display: flex;
+        align-content: center;
+        flex-direction: row;
+        align-items: center;
+}
+#submit{
+        background: black;
+            font-size: 20px;
+            color: yellow;
+            padding: 6.5px 27px;
+            border-radius: 2rem;
+            border: none;
+}
+#textarea{
+        color: black;
+            height: 3rem;
+            width: 30rem;
+}
+#upim{
+  
+     border: 1px solid red;
+        height: 6rem;
+        background: #9d000054;
+        justify-content: center;
+        text-align: center;
+        padding: 10rem;
+}
+input{
+    width: 30rem;
+        height: 2rem;
+            margin-top: 8px;
+}
