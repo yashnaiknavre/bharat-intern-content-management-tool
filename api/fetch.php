@@ -16,5 +16,5 @@ $result = $conn->query($sql);
 // }
 
 // Close the database connection when done
-mysqli_close($conn);
+// mysqli_close($conn);
 ?>
